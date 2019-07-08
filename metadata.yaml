@@ -1,0 +1,23 @@
+_repo: Punainen-lentohavittaja_59835
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Richthofen, Freiherr von
+    gutenberg_agent_id: '50649'
+    url: http://www.gutenberg.org/2009/agents/50649
+  - agent_name: Manfred
+    gutenberg_agent_id: '50648'
+    url: http://www.gutenberg.org/2009/agents/50648
+description: ''
+gutenberg_issued: '2019-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59835'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Punainen lentohävittäjä
+url: http://www.gutenberg.org/ebooks/59835
